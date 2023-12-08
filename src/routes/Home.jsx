@@ -18,7 +18,7 @@ function Home() {
           <a href='https://docs.google.com/document/d/16Jd0lfV1H2V6uMcmflZKO36tGLYEudMaHz50fnq-vV8/edit?usp=sharing' target='_blank'>
             <ArticleIcon />
           </a>
-          <a href='adamgt2003@gmail.com' target='_blank'>
+          <a href='mailto:adamgt2003@gmail.com' target='_blank'>
             <EmailIcon />
           </a>
           <a href='https://github.com/Taymn' target='_blank'>
