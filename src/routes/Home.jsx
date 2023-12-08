@@ -2,7 +2,7 @@ import React from 'react'
 import LinkedInIcon from '@mui/icons-material/LinkedIn'
 import EmailIcon from '@mui/icons-material/Email'
 import GithubIcon from '@mui/icons-material/GitHub'
-import DocumentIcon from '@mui/icons-material/Document'
+import ArticleIcon from '@mui/icons-material/Article'
 import '../styles/Home.css'
 
 function Home() {
@@ -16,7 +16,7 @@ function Home() {
             <LinkedInIcon />
           </a>
           <a href='https://docs.google.com/document/d/16Jd0lfV1H2V6uMcmflZKO36tGLYEudMaHz50fnq-vV8/edit?usp=sharing' target='_blank'>
-            <DocumentIcon />
+            <ArticleIcon />
           </a>
           <a href='adamgt2003@gmail.com' target='_blank'>
             <EmailIcon />
