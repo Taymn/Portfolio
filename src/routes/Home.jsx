@@ -14,7 +14,10 @@ function Home() {
           <a href='https://www.linkedin.com/in/adam-taylor-junior-web-deveolper/' target='_blank'>
             <LinkedInIcon />
           </a>
-          <a>
+          <a href='https://docs.google.com/document/d/16Jd0lfV1H2V6uMcmflZKO36tGLYEudMaHz50fnq-vV8/edit?usp=sharing' target='_blank'>
+            <PDFIcon />
+          </a>
+          <a href='adamgt2003@gmail.com' target='_blank'>
             <EmailIcon />
           </a>
           <a href='https://github.com/Taymn' target='_blank'>
